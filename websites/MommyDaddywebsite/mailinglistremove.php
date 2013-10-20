@@ -29,8 +29,6 @@ if ($isChanged) {
 	}
 
 	else {
-echo "<br/>got to here<br/>";
-echo strlen($write);
 
 		$file = 'mailinglist.txt';
 
