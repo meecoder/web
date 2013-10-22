@@ -18,7 +18,7 @@ PHPtest
 Websites
 </a>
 <h4>
-Hosted with MAMP on a Mac running Mac OS 10.4.11. All code &copy; Kian Moretz.
+Hosted on a LAMP server on an HP laptop running Ubuntu 13.10 Saucy Salamander. All code &copy; Kian Moretz.
 </h4>
 </body>
 </html>
