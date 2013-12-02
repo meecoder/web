@@ -17,6 +17,9 @@ PHPtest
 <a href="websites">
 Websites
 </a>
+<a href="apps">
+Apps by Kian
+</a>
 <h4>
 Hosted on a LAMP server on an HP laptop running Ubuntu 13.10 Saucy Salamander. All code &copy; Kian Moretz.
 </h4>
