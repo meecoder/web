@@ -1,6 +1,8 @@
 <html>
 
-<head></head>
+<head><?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?></head>
 <body>
 
 <?php

@@ -1,0 +1,134 @@
+<html>
+<head><?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?>
+<title>
+LaraPix
+</title>
+</head>
+<body bgcolor="40E0D0">
+<h1>
+Welcome to LaraPix!
+</h1>
+<a href="index.html">Home</a>
+<h3>
+Links to the pictures are below.
+</h3>
+<a href="colorsofthefall.html">Colors of the Fall</a>
+<br/>
+<A href="magicshow.html">Magic Show</a>
+<br/>
+<a href="peacock.html">Peacock</a>
+<br/>
+<A href="talkingpotato.html">Talking Potato</a>
+<br/>
+<A href="animals.html">Animals</a>
+<br/>
+<A href="awesomesurprise.html">Awesome Surprise</a>
+<br/>
+<A href="colors.html">Colors</a>
+<br/>
+<A href="diaryofthedots.html">Diary of the Dots</a>
+<br/>
+<A href="inthesky.html">In the Sky</a>
+<br/>
+<A href="ontheground.html">On the Ground</a>
+<br/>
+<A href="surprise.html">Surprise</a>
+<br/>
+<A href="nature.html">Nature</a>
+<br/>
+<A href="shapes.html">Shapes</a>
+<br/>
+<A href="swirl.html">Swirl</a>
+<br/>
+<A href="cupcakeparty.html">Cupcake Party</a>
+<br/>
+<A href="dotsinswirlmode.html">Dots in Swirl Mode</a>
+<br/>
+<A href="face.html">Face</a>
+<br/>
+<A href="icecreamparty.html">Ice Cream Party</a>
+<br/>
+<A href="millions.html">Millions</a>
+<br/>
+<A href="rugbert.html">Rugbert</a>
+<br/>
+<A href="swirledrainbow.html">Swirled Rainbow</a>
+<br/>
+<A href="swirledstripes.html">Swirled Stripes</a>
+<br/>
+<A href="theearth.html">The Earth</a>
+<br/>
+<A href="thefossils.html">The Fossils</a>
+<br/>
+<A href="thepuzzle.html">The Puzzle</a>
+<br/>
+<A href="thinking.html">Thinking</a>
+<br/>
+<A href="badspot.html">Bad Spot</a>
+<br/>
+<A href="boo.html">Boo</a>
+<br/>
+<A href="designs.html">Designs</a>
+<br/>
+<A href="owl.html">Owl</a>
+<br/>
+<A href="people.html">People</a>
+<br/>
+<A href="rainbow.html">Rainbow</a>
+<br/>
+<A href="show.html">Show</a>
+<br/>
+<A href="smile.html">Smile</a>
+<br/>
+<A href="talkingweepul.html">Talking Weepul</a>
+<br/>
+<A href="toomuch.html">Too Much</a>
+<br/>
+<A href="wacky.html">Wacky</a>
+<br/>
+<A href="wonderful.html">Wonderful</a>
+<br/>
+<A href="animalsinaction.html">Animals in Action</a>
+<br/>
+<A href="arctic.html">Arctic</a>
+<br/>
+<A href="biking.html">Biking</a>
+<br/>
+<A href="birdeating.html">Bird Eating</a>
+<br/>
+<A href="birds.html">Birds</a>
+<br/>
+<A href="castle.html">Castle</a>
+<br/>
+<A href="country.html">Country</a>
+<br/>
+<A href="designswirl.html">Design Swirl</a>
+<br/>
+<A href="fun.html">Fun</a>
+<br/>
+<A href="huh.html">Huh?</a>
+<br/>
+<A href="monsters.html">Monsters</a>
+<br/>
+<A href="purple.html">Purple</a>
+<br/>
+<A href="swamp.html">Swamp</a>
+<br/>
+<A href="touchtank.html">Touchtank</a>
+<br/>
+<A href="twin.html">Twin</a>
+<br/>
+<A href="underground.html">Underground</a>
+<br/>
+<A href="wall.html">Wall</a>
+<br/>
+<A href="lost.html">Lost</a>
+<br/>
+<A href="cave.html">Cave</a>
+<p>
+&copy; 2013 LaraPix, site by kCompute Web Design
+</p
+</body>
+</html>

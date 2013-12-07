@@ -1,8 +1,5 @@
 <html>
 <head>
-<?php
-include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
-?>
 <title>
 Moretz Miniserver
 </title>

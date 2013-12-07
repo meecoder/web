@@ -1,5 +1,7 @@
 <html>
-<head>
+<head><?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?>
 <title>
 PHPtest pages on Moretz Miniserver
 </title>

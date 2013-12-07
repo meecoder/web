@@ -1,5 +1,7 @@
 <html>
-<head><title>Hi</title>
+<head><?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?><title>Hi</title>
 </head>
 <body>
 <h1>PHPtest</h1>

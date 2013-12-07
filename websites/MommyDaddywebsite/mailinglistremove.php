@@ -1,4 +1,6 @@
-<html>
+<html><?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?>
 <body bgcolor="20B2AA">
 <A HREF="index.html"><img src="logo.png" height="120" width="160"></A>
 <?php 

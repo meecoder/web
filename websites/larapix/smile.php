@@ -1,0 +1,26 @@
+<html>
+<head><?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?>
+<title>
+LaraPix - Smile
+</title>
+</head>
+<body bgcolor="40E0D0">
+<h1>
+LaraPix - Smile
+</h1>
+<a href="index.html">Home</a>
+<h3>
+Smile, made 10/22/2013
+</h3>
+<p>
+I added the guy with the blue background ears and eyebrows because I thought it would be funny. Never forget the noses! - 
+Lara
+</p>
+<img src="Images/smile.jpg" width="655" height="477">
+<p>
+&copy; 2013 LaraPix, site by kCompute Web Design
+</p>
+</body>
+</html>
