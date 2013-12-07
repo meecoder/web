@@ -1,5 +1,8 @@
 <html>
 <head>
+<?php
+include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
+?>
 <title>
 Moretz Miniserver
 </title>
@@ -17,6 +20,7 @@ PHPtest
 <a href="websites">
 Websites
 </a>
+</br>
 <a href="apps">
 Apps by Kian
 </a>
