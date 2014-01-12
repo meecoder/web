@@ -10,7 +10,7 @@ LaraPix - Biking
 <h1>
 LaraPix - Biking
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Biking, made 11/2/2013
 </h3>

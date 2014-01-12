@@ -10,7 +10,7 @@ LaraPix - The Earth
 <h1>
 LaraPix - The Earth
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 The Earth, made 10/13/2013
 </h3>

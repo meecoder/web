@@ -10,7 +10,7 @@ LaraPix - Colors of the Fall
 <h1>
 LaraPix - Colors of the Fall
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Colors of the Fall, made 10/11/2013
 </h3>

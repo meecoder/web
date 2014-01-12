@@ -10,7 +10,7 @@ LaraPix - Wonderful
 <h1>
 LaraPix - Wonderful
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Wonderful, made 10/22/2013
 </h3>

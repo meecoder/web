@@ -10,7 +10,7 @@ LaraPix - Boo
 <h1>
 LaraPix - Boo
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Boo, made 10/22/2013
 </h3>

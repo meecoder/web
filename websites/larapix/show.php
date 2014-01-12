@@ -10,7 +10,7 @@ LaraPix - Show
 <h1>
 LaraPix - Show
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Show, made 10/22/2013
 </h3>

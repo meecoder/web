@@ -10,7 +10,7 @@ LaraPix - Dots in Swirl Mode
 <h1>
 LaraPix - Dots in Swirl Mode
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Dots in Swirl Mode, made 10/13/2013
 </h3>

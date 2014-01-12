@@ -10,7 +10,7 @@ LaraPix - Millions
 <h1>
 LaraPix - Millions
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Millions, made 10/13/2013
 </h3>

@@ -10,7 +10,7 @@ LaraPix - Shapes
 <h1>
 LaraPix - Shapes
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Shapes, made 10/11/2013
 </h3>

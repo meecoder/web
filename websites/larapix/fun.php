@@ -10,7 +10,7 @@ LaraPix - Fun
 <h1>
 LaraPix - Fun
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Fun, made 11/2/2013
 </h3>

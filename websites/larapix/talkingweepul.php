@@ -1,7 +1,7 @@
 <html>
 <head><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
-?>
+?>ss
 <title>
 LaraPix - Talking Weepul
 </title>
@@ -10,7 +10,7 @@ LaraPix - Talking Weepul
 <h1>
 LaraPix - Talking Weepul
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Talking Weepul, made 10/22/2013
 </h3>

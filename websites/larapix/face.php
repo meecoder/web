@@ -10,7 +10,7 @@ LaraPix - Face
 <h1>
 LaraPix - Face
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Face, made 10/13/2013
 </h3>

@@ -10,7 +10,7 @@ LaraPix Stories - The Chase in Winter
 <h1>
 The Chase in Winter
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <p>
 This is a LaraPix story.
 </p>

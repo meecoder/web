@@ -10,7 +10,7 @@ LaraPix - On the Ground
 <h1>
 LaraPix - On the Ground
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 On the Ground, made 10/11/2013
 </h3>

@@ -10,7 +10,7 @@ LaraPix - Magic Show
 <h1>
 LaraPix - Magic Show
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Magic Show, made 10/11/2013
 </h3>

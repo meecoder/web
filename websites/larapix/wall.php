@@ -10,17 +10,17 @@ LaraPix - Wall
 <h1>
 LaraPix - Wall
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Wall, made 11/9/2013
 </h3>
 <p>
- - 
+At the end of the wall is a family of elephants eating grass, when a tiger broke through the wall and got goo all over his hair. - 
 Lara
 </p>
 <img src="Images/wall.jpg" width="655" height="477">
 <p>
-&copy; 2013 LaraPix, site by kCompute Web Design
+&copy; 2013/14 LaraPix, site by kCompute Web Design
 </p>
 </body>
 </html>

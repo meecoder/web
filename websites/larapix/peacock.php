@@ -10,7 +10,7 @@ LaraPix - Peacock
 <h1>
 LaraPix - Peacock
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Peacock, made 10/6/2013
 </h3>

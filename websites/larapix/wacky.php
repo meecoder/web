@@ -10,7 +10,7 @@ LaraPix - Wacky
 <h1>
 LaraPix - Wacky
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Wacky, made 10/22/2013
 </h3>

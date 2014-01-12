@@ -10,7 +10,7 @@ LaraPix - Thinking
 <h1>
 LaraPix - Thinking
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Thinking, made 10/13/2013
 </h3>

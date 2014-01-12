@@ -10,7 +10,7 @@ LaraPix - Animals in Action
 <h1>
 LaraPix - Animals in Action
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Animals in Action, made 11/2/2013
 </h3>

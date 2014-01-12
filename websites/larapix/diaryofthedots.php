@@ -10,7 +10,7 @@ LaraPix - Diary of the Dots
 <h1>
 LaraPix - Diary of the Dots
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Diary of the Dots, made 10/6/2013
 </h3>

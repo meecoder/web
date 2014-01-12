@@ -10,123 +10,123 @@ LaraPix
 <h1>
 Welcome to LaraPix!
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Links to the pictures are below.
 </h3>
-<a href="colorsofthefall.html">Colors of the Fall</a>
+<a href="colorsofthefall.php">Colors of the Fall</a>
 <br/>
-<A href="magicshow.html">Magic Show</a>
+<A href="magicshow.php">Magic Show</a>
 <br/>
-<a href="peacock.html">Peacock</a>
+<a href="peacock.php">Peacock</a>
 <br/>
-<A href="talkingpotato.html">Talking Potato</a>
+<A href="talkingpotato.php">Talking Potato</a>
 <br/>
-<A href="animals.html">Animals</a>
+<A href="animals.php">Animals</a>
 <br/>
-<A href="awesomesurprise.html">Awesome Surprise</a>
+<A href="awesomesurprise.php">Awesome Surprise</a>
 <br/>
-<A href="colors.html">Colors</a>
+<A href="colors.php">Colors</a>
 <br/>
-<A href="diaryofthedots.html">Diary of the Dots</a>
+<A href="diaryofthedots.php">Diary of the Dots</a>
 <br/>
-<A href="inthesky.html">In the Sky</a>
+<A href="inthesky.php">In the Sky</a>
 <br/>
-<A href="ontheground.html">On the Ground</a>
+<A href="ontheground.php">On the Ground</a>
 <br/>
-<A href="surprise.html">Surprise</a>
+<A href="surprise.php">Surprise</a>
 <br/>
-<A href="nature.html">Nature</a>
+<A href="nature.php">Nature</a>
 <br/>
-<A href="shapes.html">Shapes</a>
+<A href="shapes.php">Shapes</a>
 <br/>
-<A href="swirl.html">Swirl</a>
+<A href="swirl.php">Swirl</a>
 <br/>
-<A href="cupcakeparty.html">Cupcake Party</a>
+<A href="cupcakeparty.php">Cupcake Party</a>
 <br/>
-<A href="dotsinswirlmode.html">Dots in Swirl Mode</a>
+<A href="dotsinswirlmode.php">Dots in Swirl Mode</a>
 <br/>
-<A href="face.html">Face</a>
+<A href="face.php">Face</a>
 <br/>
-<A href="icecreamparty.html">Ice Cream Party</a>
+<A href="icecreamparty.php">Ice Cream Party</a>
 <br/>
-<A href="millions.html">Millions</a>
+<A href="millions.php">Millions</a>
 <br/>
-<A href="rugbert.html">Rugbert</a>
+<A href="rugbert.php">Rugbert</a>
 <br/>
-<A href="swirledrainbow.html">Swirled Rainbow</a>
+<A href="swirledrainbow.php">Swirled Rainbow</a>
 <br/>
-<A href="swirledstripes.html">Swirled Stripes</a>
+<A href="swirledstripes.php">Swirled Stripes</a>
 <br/>
-<A href="theearth.html">The Earth</a>
+<A href="theearth.php">The Earth</a>
 <br/>
-<A href="thefossils.html">The Fossils</a>
+<A href="thefossils.php">The Fossils</a>
 <br/>
-<A href="thepuzzle.html">The Puzzle</a>
+<A href="thepuzzle.php">The Puzzle</a>
 <br/>
-<A href="thinking.html">Thinking</a>
+<A href="thinking.php">Thinking</a>
 <br/>
-<A href="badspot.html">Bad Spot</a>
+<A href="badspot.php">Bad Spot</a>
 <br/>
-<A href="boo.html">Boo</a>
+<A href="boo.php">Boo</a>
 <br/>
-<A href="designs.html">Designs</a>
+<A href="designs.php">Designs</a>
 <br/>
-<A href="owl.html">Owl</a>
+<A href="owl.php">Owl</a>
 <br/>
-<A href="people.html">People</a>
+<A href="people.php">People</a>
 <br/>
-<A href="rainbow.html">Rainbow</a>
+<A href="rainbow.php">Rainbow</a>
 <br/>
-<A href="show.html">Show</a>
+<A href="show.php">Show</a>
 <br/>
-<A href="smile.html">Smile</a>
+<A href="smile.php">Smile</a>
 <br/>
-<A href="talkingweepul.html">Talking Weepul</a>
+<A href="talkingweepul.php">Talking Weepul</a>
 <br/>
-<A href="toomuch.html">Too Much</a>
+<A href="toomuch.php">Too Much</a>
 <br/>
-<A href="wacky.html">Wacky</a>
+<A href="wacky.php">Wacky</a>
 <br/>
-<A href="wonderful.html">Wonderful</a>
+<A href="wonderful.php">Wonderful</a>
 <br/>
-<A href="animalsinaction.html">Animals in Action</a>
+<A href="animalsinaction.php">Animals in Action</a>
 <br/>
-<A href="arctic.html">Arctic</a>
+<A href="arctic.php">Arctic</a>
 <br/>
-<A href="biking.html">Biking</a>
+<A href="biking.php">Biking</a>
 <br/>
-<A href="birdeating.html">Bird Eating</a>
+<A href="birdeating.php">Bird Eating</a>
 <br/>
-<A href="birds.html">Birds</a>
+<A href="birds.php">Birds</a>
 <br/>
-<A href="castle.html">Castle</a>
+<A href="castle.php">Castle</a>
 <br/>
-<A href="country.html">Country</a>
+<A href="country.php">Country</a>
 <br/>
-<A href="designswirl.html">Design Swirl</a>
+<A href="designswirl.php">Design Swirl</a>
 <br/>
-<A href="fun.html">Fun</a>
+<A href="fun.php">Fun</a>
 <br/>
-<A href="huh.html">Huh?</a>
+<A href="huh.php">Huh?</a>
 <br/>
-<A href="monsters.html">Monsters</a>
+<A href="monsters.php">Monsters</a>
 <br/>
-<A href="purple.html">Purple</a>
+<A href="purple.php">Purple</a>
 <br/>
-<A href="swamp.html">Swamp</a>
+<A href="swamp.php">Swamp</a>
 <br/>
-<A href="touchtank.html">Touchtank</a>
+<A href="touchtank.php">Touchtank</a>
 <br/>
-<A href="twin.html">Twin</a>
+<A href="twin.php">Twin</a>
 <br/>
-<A href="underground.html">Underground</a>
+<A href="underground.php">Underground</a>
 <br/>
-<A href="wall.html">Wall</a>
+<A href="wall.php">Wall</a>
 <br/>
-<A href="lost.html">Lost</a>
+<A href="lost.php">Lost</a>
 <br/>
-<A href="cave.html">Cave</a>
+<A href="cave.php">Cave</a>
 <p>
 &copy; 2013 LaraPix, site by kCompute Web Design
 </p

@@ -10,7 +10,7 @@ LaraPix - Birds
 <h1>
 LaraPix - Birds
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Birds, made 11/2/2013
 </h3>

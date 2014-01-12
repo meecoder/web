@@ -10,7 +10,7 @@ LaraPix - Design Swirl
 <h1>
 LaraPix - Design Swirl
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Design Swirl, made 11/2/2013
 </h3>

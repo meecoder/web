@@ -10,7 +10,7 @@ LaraPix - In the Sky
 <h1>
 LaraPix - Inthe Sky
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 In the Sky, made 10/11/2013
 </h3>

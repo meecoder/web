@@ -10,7 +10,7 @@ LaraPix
 <h1>
 LaraPix - About
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 LaraPix contains pictures made by Lara with Kid Pix.
 </h3>

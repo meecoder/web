@@ -10,7 +10,7 @@ LaraPix - The Puzzle
 <h1>
 LaraPix - The Puzzle
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 The Puzzle, made 10/13/2013
 </h3>

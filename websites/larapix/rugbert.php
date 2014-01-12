@@ -10,7 +10,7 @@ LaraPix - Rugbert
 <h1>
 LaraPix - Rugbert
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Rugbert, made 10/13/2013
 </h3>

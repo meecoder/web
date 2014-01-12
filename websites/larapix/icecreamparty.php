@@ -10,7 +10,7 @@ LaraPix - Ice Cream Party
 <h1>
 LaraPix - Ice Cream Party
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Ice Cream Party, made 10/13/2013
 </h3>

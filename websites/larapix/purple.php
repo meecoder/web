@@ -10,7 +10,7 @@ LaraPix - Purple
 <h1>
 LaraPix - Purple
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Purple, made 11/2/2013
 </h3>

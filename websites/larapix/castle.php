@@ -10,7 +10,7 @@ LaraPix - Castle
 <h1>
 LaraPix - Castle
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Castle, made 11/2/2013
 </h3>

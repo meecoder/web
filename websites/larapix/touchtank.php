@@ -10,7 +10,7 @@ LaraPix - Touchtank
 <h1>
 LaraPix - Touchtank
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Touchtank, made 11/2/2013
 </h3>

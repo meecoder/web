@@ -10,7 +10,7 @@ LaraPix - Swirl
 <h1>
 LaraPix - Swirl
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Swirl, made 10/11/2013
 </h3>

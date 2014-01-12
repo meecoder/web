@@ -10,7 +10,7 @@ LaraPix - Cupcake Party
 <h1>
 LaraPix - Cupcake Party
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Cupcake Party, made 10/13/2013
 </h3>

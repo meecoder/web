@@ -10,7 +10,7 @@ LaraPix - Swamp
 <h1>
 LaraPix - Swamp
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Swamp, made 11/2/2013
 </h3>

@@ -10,7 +10,7 @@ LaraPix - At the Lake
 <h1>
 LaraPix - At the Lake
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 At the Lake, made 10/22/2013
 </h3>

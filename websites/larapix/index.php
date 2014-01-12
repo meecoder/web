@@ -13,11 +13,11 @@ Welcome to LaraPix!
 <h3>
 LaraPix contains pictures made by Lara with Kid Pix.
 </h3>
-<a href="about.html">About LaraPix</a>
+<a href="about.php">About LaraPix</a>
 <br/>
-<A href="pix.html">Pictures</a>
+<A href="pix.php">Pictures</a>
 <br/>
-<a href="stories.html">Stories</a>
+<a href="stories.php">Stories</a>
 <p>
 &copy; 2013 LaraPix, site by kCompute Web Design
 </p

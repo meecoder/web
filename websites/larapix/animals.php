@@ -10,7 +10,7 @@ LaraPix - Animals
 <h1>
 LaraPix - Animals
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Animals, made 10/11/2013
 </h3>

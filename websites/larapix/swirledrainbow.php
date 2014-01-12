@@ -10,7 +10,7 @@ LaraPix - Swirled Rainbow
 <h1>
 LaraPix - Swirled Rainbow
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Swirled Rainbow, made 10/13/2013
 </h3>

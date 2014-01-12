@@ -10,7 +10,7 @@ LaraPix - Rainbow
 <h1>
 LaraPix - Rainbow
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Rainbow, made 10/22/2013
 </h3>

@@ -10,7 +10,7 @@ LaraPix - Country
 <h1>
 LaraPix - Country
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Country, made 11/2/2013
 </h3>

@@ -10,7 +10,7 @@ LaraPix - Arctic
 <h1>
 LaraPix - Arctic
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Arctic, made 11/2/2013
 </h3>

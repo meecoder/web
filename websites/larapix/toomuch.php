@@ -10,7 +10,7 @@ LaraPix - Too Much
 <h1>
 LaraPix - Too Much
 </h1>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 <h3>
 Too Much, made 10/22/2013
 </h3>
