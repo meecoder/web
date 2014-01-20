@@ -23,7 +23,7 @@ and three white doves in this story.
 "Aah! I'm a huge animal!", says Mammy the mammoth.
 "I'm going to get you!", said Sabry the sabertoothed tiger.
 Polie the polar bear just sat there and watched.
-<img src="Images/winter2.jpg"></img></br>
+<br><img src="Images/winter2.jpg"></img></br>
 Look! Mammy had a baby! It's so cute!
 Sabry is keeping an eye on them. Polie left because he
  thought he was allergic to babies.
