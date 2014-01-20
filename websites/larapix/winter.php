@@ -38,16 +38,16 @@ At least they got away from Sabry. Finally they are safe!
 It is nighttime, so they shuld watch out.
 <img src="Images/winter6.jpg"></img></br>
 Aah! Sabry is back! The playing babies need to watch out!
-<img src="Images/winter7.jpg"></img></br>
+<br><img src="Images/winter7.jpg"></img></br>
 Look! Polie and three of her friends' babies are here! Oh no! Sabry 
 bit the baby mammoth!
-<img src="Images/winter8.jpg"></img></br>
+<br><img src="Images/winter8.jpg"></img></br>
 Oh! I never knew Polie had twins! One of the friend's babies is 
 still there, too.
 <img src="Images/winter9.jpg"></img></br>
 Polie is ready to hibernate, so he ate a lot and got way bigger. 
 And yay, the mammoths are getting away! But it's not over yet.
-<img src="Images/winter10.jpg"></img></br>
+<br><img src="Images/winter10.jpg"></img></br>
 The end.
 </p>
 </body>
