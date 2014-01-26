@@ -1,6 +1,6 @@
 <html><head><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
-?><title>LNP-Items for Purchase</title></head><body bgcolor="660099"><p><a href="index.html">
+?><title>LNP-Items for Purchase</title></head><body bgcolor="660099"><p><a href="index.php">
 <img width="140" height="70" src="LNPlogo.png"/></a></p>
 <h1>Items for Purchase</h1>
 <h3>
@@ -9,7 +9,7 @@ Crowns
 <p>
 King/Queen/Princess crowns
 <br/>
-<a href="crowns.html">Info</a>
+<a href="crowns.php">Info</a>
 </p>
 <h3>
 Jewelry
@@ -17,7 +17,7 @@ Jewelry
 <p>
 Queen/Princess jewelry
 <br/>
-<a href="jewelry.html">Info</a>
+<a href="jewelry.php">Info</a>
 </p>
 <h3>
 Thrones
@@ -25,7 +25,7 @@ Thrones
 <p>
 King/Queen/Princess thrones
 <br/>
-<a href="thrones.html">Info</a>
+<a href="thrones.php">Info</a>
 </p>
 <h3>
 Horses
@@ -33,7 +33,7 @@ Horses
 <p>
 Princess horses
 <br/>
-<a href="horses.html">Info</a>
+<a href="horses.php">Info</a>
 </p>
 <h3>
 Royal capes
@@ -41,7 +41,7 @@ Royal capes
 <p>
 King/Queen/Princess royal capes
 <br/>
-<a href="royalcapes.html">Info</a>
+<a href="royalcapes.php">Info</a>
 </p>
 <p>
 &copy; 2012/2013 LNP Incorporated
