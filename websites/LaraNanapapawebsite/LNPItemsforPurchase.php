@@ -1,6 +1,6 @@
 <html><head><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
-?><title>LNP-Items for Purchase</title></head><body bgcolor="660099"><p><a href="index.php">
+?><title>LNP-Items for Purchase</title></head><body bgcolor="FF0000"><p><a href="index.php">
 <img width="140" height="70" src="LNPlogo.png"/></a></p>
 <h1>Items for Purchase</h1>
 <h3>
