@@ -18,7 +18,7 @@ Frequently Used Technology - Standard GSI&reg;
 The standard GSI is an normal sized GSI.
 </h4>
 <p>
-There are currently 528,002 Standard GSIs.
+There are currently 550,800 Standard GSIs.
 </p>
 </br></br></br></br>
 <h6>
