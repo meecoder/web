@@ -18,7 +18,7 @@ Frequently Used Technology - Mini GSI&reg;
 The mini GSI is an small sized GSI.
 </h4>
 <p>
-There are currently 213,886 Mini GSIs.
+There are currently 229,217 Mini GSIs.
 </p>
 </br></br></br></br>
 <h6>
