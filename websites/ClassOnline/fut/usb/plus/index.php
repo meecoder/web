@@ -18,7 +18,7 @@ Frequently Used Technology - USB+&reg;
 The USB+&reg; is a large USB with extra equipment.
 </h4>
 <p>
-There are currently 61,840 USB+s&reg;.
+There are currently 65,279 USB+s&reg;.
 </p>
 </br></br></br></br>
 <h6>
