@@ -18,7 +18,7 @@ Frequently Used Technology - Fire Turtle&reg;
 The Fire Turtle&reg; is a Turtle&reg; that is made for putting out fires with CFD.
 </h4>
 <p>
-There are currently 6,984 Fire Turtles&reg;.
+There are currently 7,897 Fire Turtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
