@@ -18,7 +18,7 @@ Frequently Used Technology - Thinking Turtle&reg;
 The Thinking Turtle&reg; is a Turtle&reg; that is made for performing calculations and rerporting information.
 </h4>
 <p>
-There are currently 21,882 Thinking Turtles&reg;.
+There are currently 25,000 Thinking Turtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
