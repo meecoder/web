@@ -18,7 +18,7 @@ Frequently Used Technology - Standard USB&reg;
 The Standard USB&reg; is a USB that does the normal amount of operations and is most common.
 </h4>
 <p>
-There are currently 5,163,901 Standard USBs&reg;.
+There are currently 5,471,913 Standard USBs&reg;.
 </p>
 </br></br></br></br>
 <h6>
