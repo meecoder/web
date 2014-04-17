@@ -18,7 +18,7 @@ Frequently Used Technology - Mini USB&reg;
 The Mini&reg; is a small USB.
 </h4>
 <p>
-There are currently 228,210 Mini USBs&reg;.
+There are currently 253,168 Mini USBs&reg;.
 </p>
 </br></br></br></br>
 <h6>
