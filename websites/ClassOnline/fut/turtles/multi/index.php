@@ -18,7 +18,7 @@ Frequently Used Technology - MultiTurtle&reg;
 The MultiTurtle&reg; is a Turtle&reg; that can do multiple types of things.
 </h4>
 <p>
-There are currently 102,016 MultiTurtles&reg;.
+There are currently 114,984 MultiTurtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
