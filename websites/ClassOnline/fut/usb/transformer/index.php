@@ -18,7 +18,7 @@ Frequently Used Technology - Transformer USB&reg;
 The Transformer USB&reg; is a USB that can transform into many things.
 </h4>
 <p>
-There are currently 5,112 Transformer USBs&reg;.
+There are currently 5,741 Transformer USBs&reg;.
 </p>
 </br></br></br></br>
 <h6>
