@@ -18,7 +18,7 @@ Frequently Used Technology - Building Turtle&reg;
 The Building Turtle&reg; is a Turtle&reg; that builds many things.
 </h4>
 <p>
-There are currently 7,917 Building Turtles&reg;.
+There are currently 8,023 Building Turtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
