@@ -18,7 +18,7 @@ Frequently Used Technology - Super GSI&reg;
 The super GSI is an large sized GSI.
 </h4>
 <p>
-There are currently 57,814 Super GSIs.
+There are currently 60,112 Super GSIs.
 </p>
 </br></br></br></br>
 <h6>
