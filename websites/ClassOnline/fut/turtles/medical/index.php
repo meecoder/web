@@ -18,7 +18,7 @@ Frequently Used Technology - Medical Turtle&reg;
 The Medical Turtle&reg; is a Turtle&reg; that is made for use in CMS hospitals. They also transport patients.
 </h4>
 <p>
-There are currently 21,008 Medical Turtles&reg;.
+There are currently 22,313 Medical Turtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
