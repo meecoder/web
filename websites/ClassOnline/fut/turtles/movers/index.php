@@ -18,7 +18,7 @@ Frequently Used Technology - Turtle Movers&reg;
 The Turtle Mover&reg; is a Turtle&reg; that is made for moving anything that needs to be moved.
 </h4>
 <p>
-There are currently 23,819 Turtle Movers&reg;.
+There are currently 25,121 Turtle Movers&reg;.
 </p>
 </br></br></br></br>
 <h6>
