@@ -18,7 +18,7 @@ Frequently Used Technology - Mining Turtle&reg;
 The Mining Turtle&reg; is a Turtle&reg; that is made for mining valuable minerals and oil.
 </h4>
 <p>
-There are currently 91,726 Mining Turtles&reg;.
+There are currently 97,307 Mining Turtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
