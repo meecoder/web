@@ -18,7 +18,7 @@ Frequently Used Technology - Garbage Turtle&reg;
 The Garbage Turtle&reg; is a Turtle&reg; that is made for moving trash and recycling.
 </h4>
 <p>
-There are currently 198 Garbage Turtles&reg;.
+There are currently 245 Garbage Turtles&reg;.
 </p>
 </br></br></br></br>
 <h6>
