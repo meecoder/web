@@ -11,10 +11,10 @@ LNP Crowns
 LNP Crowns
 </h1>
 <h2>
-Crowns for kings, queens, and princesses.
+Crowns and tiaras for kings, queens, and princesses.
 </h2>
 <p>
-Many sizes and styles of crowns are available from LNP. You can select your own jewels without using a pre-selected style for $20 extra. Contact Lara for details. 
+Many sizes and styles of crowns and tiaras are available from LNP. Crowns are available for kings and quenns, and tiaras are available for princesses and queens. You can select your own jewels without using a pre-selected style for $20 extra. Contact Lara for details. 
 </p>
 <p>
 &copy 2013 LNP Incorporated

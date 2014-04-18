@@ -7,7 +7,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 Crowns
 </h3>
 <p>
-King/Queen/Princess crowns
+King/Queen/Princess crowns and tiaras
 <br/>
 <a href="crowns.php">Info</a>
 </p>
@@ -42,9 +42,23 @@ Royal capes
 King/Queen/Princess royal capes
 <br/>
 <a href="royalcapes.php">Info</a>
+<h3>
+Scepters
+</h3>
+<p>
+King/Queen/Princess scepters
+<br/>
+<a href="scepters.php">Info</a>
+<h3>
+Carriages
+</h3>
+<p>
+King/Queen/Princess carriages
+<br/>
+<a href="carriages.php">Info</a>
 </p>
 <p>
-&copy; 2012/2013 LNP Incorporated
+&copy; 2012-2014 LNP Incorporated
 </p>
 </body>
 </html>
