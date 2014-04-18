@@ -13,7 +13,7 @@ mathpy app
 <p>
 This is a python app that gives you a math question for you to answer. You can choose the type of problem - addition, subtraction, multiplication, division, or exponents. If your answer is incorrect, the correct answer will be shown.
 This is currently still in development - we are adding multiple problems at a time, percent accuracy, and a correct and incorrect count at the end.
-The code can be downloaded <a href="mathpy.zip">here</a> and run with a Python 3 interpreter.
+The code can be downloaded <a href="mathpy.zip">here</a> and run with a Python interpreter.
 </p>
 </body>
 </html>
