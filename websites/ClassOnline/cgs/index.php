@@ -1,13 +1,13 @@
 <html>
 <head><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
-?>
+?></br>
 <title>
 CGS - Class Garbage Service
 </title>
 </head>
 <body bgcolor="000000" text="FFFFFF">
-<A HREF="../index.html"><img src="../Images/logo.png" height="120" width="160"></A><A HREF="../security/index.html"><img src="../Images/security.png" height="120" width="160"></A><A HREF="../cfd/index.html"><img src="../Images/cfd.png" height="120" width="160"></A><A HREF="../cms/index.html"><img src="../Images/cms.png" height="120" width="160"></A><A HREF="../cgs/index.html"><img src="../Images/cgs.png" height="120" width="160"></A><A HREF="../cdot/index.html"><img src="../Images/cdot.png" height="120" width="160"></A><A HREF="../login/index.html"><img src="../Images/login.png" height="120" width="160"></A>
+<A HREF="../index.php"><img src="../Images/logo.png" height="120" width="160"></A><A HREF="../security/index.php"><img src="../Images/security.png" height="120" width="160"></A><A HREF="../cfd/index.php"><img src="../Images/cfd.png" height="120" width="160"></A><A HREF="../cms/index.php"><img src="../Images/cms.png" height="120" width="160"></A><A HREF="../cgs/index.php"><img src="../Images/cgs.png" height="120" width="160"></A><A HREF="../cdot/index.php"><img src="../Images/cdot.png" height="120" width="160"></A><A HREF="../login/index.php"><img src="../Images/login.png" height="120" width="160"></A>
 </br>
 </br>
 <h1>
