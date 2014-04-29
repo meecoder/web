@@ -6,7 +6,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <title>MCMK Inventions-Smellet</title>
 </head>
 <body bgcolor="FF1F1">
-<A HREF="../index.html"><img src="../mcmk.png" height="120" width="160"></A>
+<A HREF="../index.php"><img src="../mcmk.png" height="120" width="160"></A>
 <h1>Smellet</h1>  <h3>by MCMK Inventions</h3>
 <p>
 The Smellet was the first MCMK invention. It is a small
@@ -24,9 +24,9 @@ are made this way now. Some may have scented hand sanitizers,
 scented lip balm, or room spray. Some scents include
 Grape, Cinnamon-Raspberry, Buttercream, Mint, and many others.
 </p>
-<a href="2sided.html">2-sided</a>
-<a href="moisturizer.html">Moisturizer</a>
-<a href="mini.html">Mini</a>
-<a href="mama.html">Mama</a>
+<a href="2sided.php">2-sided</a>
+<a href="moisturizer.php">Moisturizer</a>
+<a href="mini.php">Mini</a>
+<a href="mama.php">Mama</a>
 </body>
 </html>
