@@ -43,10 +43,6 @@ LaraPix
 kCompute
 </a>
 </br>
-<a href="mcmk">
-MCMK Inventions
-</a>
-</br>
 <a href="attackonbaby">
 Attack On Baby
 </a>
