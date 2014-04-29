@@ -6,8 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <title>MCMK Products</title>
 </head>
 <body bgcolor="F24C92">
-<A HREF="index.html"><img src="mcmk.png" height="120" width="160"></A>
+<A HREF="index.php"><img src="mcmk.png" height="120" width="160"></A>
 <h1>Products</h1>
-<a href="smellet/index.html">Smellet</a>
+<a href="smellet/index.php">Smellet</a>
 </body>
 </html>
