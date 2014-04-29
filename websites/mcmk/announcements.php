@@ -6,8 +6,18 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <title>MCMK Announcements</title>
 </head>
 <body bgcolor="CCFF11">
-<A HREF="index.html"><img src="mcmk.png" height="120" width="160"></A>
+<A HREF="index.php"><img src="mcmk.png" height="120" width="160"></A>
 <h1> MCMK Announcements </h1>
+<h3>Website transferred</h3>
+<h5>4/29/2014</h5>
+<p>About a month ago, the MCMK website was moved to a new system. We are currently working on fixing errors after this transfer. These changes should be completed soon.
+<br/>
+Signed,
+<br/>
+Webmaster
+<br/>
+MCMK Inventions
+</p>
 <h3>Website in progress</h3>
 <h5>5/11/2013</h5>
 <p>We are currently working on the MCMK website. In the next
