@@ -22,7 +22,7 @@ Websites
 Apps by Kian
 </a>
 <h4>
-Hosted on a LAMP server on an HP laptop running Ubuntu 13.10 Saucy Salamander. All code &copy; Kian Moretz.
+Hosted on a XAMPP server on a Mac Mini running Mac OS 10.9 Mavericks. All code &copy; Kian Moretz.
 </h4>
 </body>
 </html>
