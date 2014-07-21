@@ -15,5 +15,6 @@ Moretz Technologies
 <li>Solutions to Problems</li>
 <li>New Ideas</li>
 </ul>
+<p>Website design by Kian Moretz, 2014.</p>
 </body>
 </html>

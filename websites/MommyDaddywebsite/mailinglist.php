@@ -1,8 +1,14 @@
 <html><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
+<head>
+<title>Mommy Daddy Website Mailing List</title>
+</head>
 <body bgcolor="20B2AA">
-<A HREF="index.html"><img src="logo.png" height="120" width="160"></A>
+<br/>
+<A HREF="index.php"><img src="logo.png" height="120" width="160"></A>
+<br/>
+<br/>
 <?php
 
 $input = $_POST['email'];

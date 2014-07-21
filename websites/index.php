@@ -42,13 +42,9 @@ LaraPix
 <a href="kcompute">
 kCompute
 </a>
-</br>
-<a href="attackonbaby">
-Attack On Baby
-</a>
 </p>
 <p>
-All code &copy; Kian Moretz.
+All code &copy; Kian Moretz, 2013-2014.
 </p>
 </body>
 </html>

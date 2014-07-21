@@ -1,28 +1,37 @@
 <html><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
+<head>
+<title>Mommy Daddy Website Mailing List</title>
+</head>
 <body bgcolor="20B2AA">
-<A HREF="index.html"><img src="logo.png" height="120" width="160"></A>
+<br/>
+<A HREF="index.php"><img src="logo.png" height="120" width="160"></A>
+<br/>
+<br/>
 <?php 
 
 $input = $_POST['email'];
-$file = 'mailinglist.txt' or die('Could not read file!');
-$contents = file_get_contents($file);
+$file = 'mailinglist.txt';
+
+$contents = file_get_contents($file) or die('Could not read file!');
+
 $emails = explode(',', $contents);
 $i = 0;
 $emailmax = count ($emails);
 $isChanged = false;
 
 // loop through email list looking for a match
-while ($i <= $emailmax) {
+while ($i < $emailmax) {
 	if ($emails[$i] == $input) {
 		unset ($emails[$i]);
 		$isChanged = true;
 	}
 	$i = $i + 1;
 }
+
 // close file and reopen in write mode to write updated list
-fclose($file);
+//fclose($file);
 
 if ($isChanged) {
 	$write = (implode(",",$emails));
@@ -35,7 +44,7 @@ if ($isChanged) {
 
 		$file = 'mailinglist.txt';
 
-		$fh = fopen($file, 'w') or die('Could not open file!');
+		$fh = fopen($file, 'w') or die('Could not open file to write!');
 
 		fwrite($fh, "$write") or die('Could not write to file');
 	
