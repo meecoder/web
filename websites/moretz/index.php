@@ -1,7 +1,5 @@
 <html>
-<head><?php
-include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
-?>
+<head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <title>
 Moretz Technologies
@@ -15,6 +13,7 @@ Moretz Technologies
 <li>Solutions to Problems</li>
 <li>New Ideas</li>
 </ul>
+<a href="products.php">Products</a>
 <p>Website design by Kian Moretz, 2014.</p>
 </body>
 </html>
