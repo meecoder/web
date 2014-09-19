@@ -5,6 +5,8 @@ p,
 h1,
 h3,
 h5,
+.author,
+.comment,
 a {
 	color: #FFF;
 }
@@ -12,9 +14,4 @@ a {
 .home-desc {
     opacity: 0;
     pointer-events: none;
-}
-.author,
-.comment {
-	opacity: 100;
-	color: #FFF;
 }
