@@ -5,7 +5,7 @@
 <title>MCMK Inventions-Smellet</title>
 </head>
 <body>
-<A HREF="../index.php"><img src="../mcmk.png" height="120" width="160"></A>
+<A HREF="../index.php"><img src="../mcmk.png" height="200" width="160"></A>
 <h1>Smellet</h1>  <h3>by MCMK Inventions</h3>
 <p>
 The Smellet was the first MCMK invention. It is a small

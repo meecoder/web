@@ -5,7 +5,7 @@
 <title> MCMK Inventions </title>
 </head>
 <body>
-<A HREF="index.php"><img src="mcmk.png" height="120" width="160"></A> </br>
+<A HREF="index.php"><img src="mcmk.png" height="200" width="160"></A> </br>
 <h1> Hello. Welcome to MCMK Inventions. </h1>
 <a href="products.php">Products</a>
 <a href="announcements.php">Announcements</a>

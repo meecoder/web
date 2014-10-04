@@ -5,7 +5,7 @@
 <title>MCMK Announcements</title>
 </head>
 <body>
-<A HREF="index.php"><img src="mcmk.png" height="120" width="160"></A>
+<A HREF="index.php"><img src="mcmk.png" height="200" width="160"></A>&nbsp&nbsp<img src="products.png" height="200" width="260">
 <h1> MCMK Announcements </h1>
 <h3>Some updates</h3>
 <h5>9/16/2014</h5>

@@ -5,7 +5,7 @@
 <title>MCMK Products</title>
 </head>
 <body>
-<A HREF="index.php"><img src="mcmk.png" height="120" width="160"></A>
+<A HREF="index.php"><img src="mcmk.png" height="200" width="160"></A>
 <h1>Products</h1>
 <a href="smellet/index.php">Smellet</a>
 <!-- begin htmlcommentbox.com -->
