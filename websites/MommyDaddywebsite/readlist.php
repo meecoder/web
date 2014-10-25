@@ -1,4 +1,6 @@
-<html><?php
+<html>
+<link rel=stylesheet href="style.css" type="text/css">
+<?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?>
 <head>
@@ -11,12 +13,13 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <?php
 
 // set file to read
-$file = 'mailinglist.txt' or die('Could not read file!');
+$file = 'mailinglist.txt' or die('<p class="error">Could not read file!</p>');
 
 $contents = file_get_contents($file);
 $emails = explode(',', $contents);
 
 foreach($emails as $field) {
+	echo "!";
     echo $field;
     echo "<br />";
 }

@@ -1,5 +1,7 @@
 ﻿<html>
 <head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://whitepuma.net/universal_widget/mcmk"></script> 
 <link rel="stylesheet" href="mcmkcss.css" type="text/css">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <title> MCMK Inventions </title>
@@ -9,6 +11,10 @@
 <h1> Hello. Welcome to MCMK Inventions. </h1>
 <a href="products.php">Products</a>
 <a href="announcements.php">Announcements</a>
+<br/>
+<br/>
+<br/>
+<a href="https://whitepuma.net/buttonizer?website_public_key=mcmk&button_id=1543312e93a457">Tip us cryptocurrency!</a>
 <!-- begin htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="htmlcommentbox.css" />
