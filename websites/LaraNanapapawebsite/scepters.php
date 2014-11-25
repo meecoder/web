@@ -6,7 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 LNP Scepters
 </title>
 </head>
-<BODY bgcolor="00CC99">
+<BODY bgcolor="00CC99"><br/>
+<a href="index.php"><img src="LNPlogo-new.png"></a>
 <h1>
 LNP Scepters
 </h1>
@@ -20,7 +21,7 @@ Special Order - precious gems
 Contact Lara for details.
 </p>
 <p>
-&copy 2013 LNP Incorporated
+&copy 2013-2014 LNP Incorporated
 </p>
 </body>
 </html>

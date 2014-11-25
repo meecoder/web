@@ -1,7 +1,7 @@
 <html><head><?php
 include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 ?><title>LNP-Items for Purchase</title></head><body bgcolor="FF0000"><p><a href="index.php">
-<img width="140" height="70" src="LNPlogo.png"/></a></p>
+<img src="LNPlogo-new.png"></a>
 <h1>Items for Purchase</h1>
 <h3>
 Crowns

@@ -6,7 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 LNP About Us
 </title>
 </head>
-<BODY bgcolor="00CC99">
+<BODY bgcolor="00CC99"><br/>
+<a href="index.php"><img src="LNPlogo-new.png"></a>
 <h1>
 About Us
 </h1>
@@ -17,7 +18,7 @@ LNP - Lara Nana Papa - makes royal items
 LNP are a princess, queen, and king that rule LaraNanaPapaLand. We love making royal things for other queens, kings, and princesses!
 </p>
 <p>
-&copy 2013 LNP Incorporated
+&copy 2013-2014 LNP Incorporated
 </p>
 </body>
 </html>

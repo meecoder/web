@@ -6,7 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 LNP Horses
 </title>
 </head>
-<BODY bgcolor="00CC99">
+<BODY bgcolor="00CC99"><br/>
+<a href="index.php"><img src="LNPlogo-new.png"></a>
 <h1>
 LNP Horses
 </h1>
@@ -17,7 +18,7 @@ Horses for princesses.
 Many colors of horses and ponies are available from LNP. Contact Lara for details. 
 </p>
 <p>
-&copy 2013 LNP Incorporated
+&copy 2013-2014 LNP Incorporated
 </p>
 </body>
 </html>

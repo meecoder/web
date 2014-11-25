@@ -6,7 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 LNP Jewelry
 </title>
 </head>
-<BODY bgcolor="00CC99">
+<BODY bgcolor="00CC99"><br/>
+<a href="index.php"><img src="LNPlogo-new.png"></a>
 <h1>
 LNP Jewelry
 </h1>
@@ -16,8 +17,10 @@ Jewelry for kings, queens, and princesses.
 <p>
 Many different types of jewelry are available from LNP. Hand-design your own for $10 extra. Contact Lara for details. 
 </p>
+<br/>
+<img src="jewelry.png">
 <p>
-&copy 2013 LNP Incorporated
+&copy 2013-2014 LNP Incorporated
 </p>
 </body>
 </html>

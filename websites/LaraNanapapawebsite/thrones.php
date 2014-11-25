@@ -6,7 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 LNP Thrones
 </title>
 </head>
-<BODY bgcolor="00CC99">
+<BODY bgcolor="00CC99"><br/>
+<a href="index.php"><img src="LNPlogo-new.png"></a>
 <h1>
 LNP Thrones
 </h1>
@@ -17,7 +18,7 @@ Thrones for kings, queens, and princesses.
 Many sizes and styles of thrones are available from LNP. Add jewels for $20 plus jewel cost. Contact Lara for details. 
 </p>
 <p>
-&copy 2013 LNP Incorporated
+&copy 2013-2014 LNP Incorporated
 </p>
 </body>
 </html>

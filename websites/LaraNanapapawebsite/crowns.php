@@ -6,7 +6,8 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 LNP Crowns
 </title>
 </head>
-<BODY bgcolor="00CC99">
+<BODY bgcolor="00CC99"><br/>
+<a href="index.php"><img src="LNPlogo-new.png"></a>
 <h1>
 LNP Crowns
 </h1>
@@ -16,8 +17,10 @@ Crowns and tiaras for kings, queens, and princesses.
 <p>
 Many sizes and styles of crowns and tiaras are available from LNP. Crowns are available for kings and quenns, and tiaras are available for princesses and queens. You can select your own jewels without using a pre-selected style for $20 extra. Contact Lara for details. 
 </p>
+<br/>
+<img src="crown" height="500" width="450">
 <p>
-&copy 2013 LNP Incorporated
+&copy 2013-2014 LNP Incorporated
 </p>
 </body>
 </html>
