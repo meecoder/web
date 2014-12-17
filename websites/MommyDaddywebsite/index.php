@@ -10,7 +10,7 @@ Insert your email address: <input type="text" name="email" size="50">
 
 <input type="submit" name="sender" value="Send">
 </form> 
-<?
+<?php
 /* form2.php */
 
 if(isset($_POST['email'])){ //check if the form is posted
@@ -44,7 +44,7 @@ Insert your email address to remove from mailing list: <input type="text" name="
 <input type="submit" name="asdfasdf" value="Send">
 
 </form>
-<?
+<?php
 /* form.php */
 
 if(isset($_POST['email-remove'])){ //check if the form is posted

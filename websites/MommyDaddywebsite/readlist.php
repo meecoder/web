@@ -19,7 +19,6 @@ $contents = file_get_contents($file);
 $emails = explode(',', $contents);
 
 foreach($emails as $field) {
-	echo "!";
     echo $field;
     echo "<br />";
 }

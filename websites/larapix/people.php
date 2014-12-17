@@ -5,12 +5,12 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <title>
 LaraPix - People
 </title>
-</head>
+<link rel="stylesheet" href="style.css"></head>
 <body bgcolor="40E0D0">
 <h1>
 LaraPix - People
 </h1>
-<a href="index.php">Home</a>
+<a class="homeLink" href="index.php">Home</a>
 <h3>
 People, made 10/22/2013
 </h3>
@@ -19,7 +19,7 @@ I thought the couch potato watching TV would be funny. The guy with the polka do
 Lara
 </p>
 <img src="Images/people.jpg" width="655" height="477">
-<p>
+<p class="copynote">
 &copy; 2013 LaraPix, site by kCompute Web Design
 </p>
 </body>

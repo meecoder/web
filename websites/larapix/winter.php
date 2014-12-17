@@ -5,12 +5,12 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <title>
 LaraPix Stories - The Chase in Winter
 </title>
-</head>
+<link rel="stylesheet" href="style.css"></head>
 <body bgcolor="40E0D0">
 <h1>
 The Chase in Winter
 </h1>
-<a href="index.php">Home</a>
+<a class="homeLink" href="index.php">Home</a>
 <p>
 This is a LaraPix story.
 </p>

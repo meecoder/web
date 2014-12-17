@@ -5,6 +5,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/header.php");
 <title>
 LNP Crowns
 </title>
+<link rel="stylesheet" type="text/css" href="class.css" />
 </head>
 <BODY bgcolor="00CC99"><br/>
 <a href="index.php"><img src="LNPlogo-new.png"></a>

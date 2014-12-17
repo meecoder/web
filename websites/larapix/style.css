@@ -1,0 +1,31 @@
+.homepageLink,
+.homeLink{
+    height: 20px;
+    width: 50px;
+    border-radius: 25%;
+    color: #000000;
+    text-decoration: none;
+    background-color: red;
+    border-bottom: 2px solid darkred;
+    padding: 5px;
+}
+
+.copynote {
+    font-style: italic;
+    font-size: 11px;
+}
+
+h1 {
+    font-family: serif;
+}
+
+.homeLink:hover,
+.homepageLink:hover {
+    background-color: darkorange;
+}
+
+.homeLink:active,
+.homepageLink:active {
+    background-color: blue;
+    border-bottom: 2px solid black;
+}
