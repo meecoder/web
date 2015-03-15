@@ -19,7 +19,7 @@ LNP - Lara Nana Papa - makes royal items
 LNP are a princess, queen, and king that rule LaraNanaPapaLand. We love making royal things for other queens, kings, and princesses!
 </p>
 <p>
-&copy 2013-2014 LNP Incorporated
+&copy 2013-2015 LNP Incorporated
 </p>
 </body>
 </html>

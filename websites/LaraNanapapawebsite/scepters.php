@@ -24,7 +24,7 @@ Contact Lara for details.
 <br/>
 <img class="throneIMG" src="scepter.jpg" height=500 width=500 />
 <p>
-&copy 2013-2014 LNP Incorporated
+&copy 2013-2015 LNP Incorporated
 </p>
 </body>
 </html>

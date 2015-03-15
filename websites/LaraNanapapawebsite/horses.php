@@ -16,12 +16,12 @@ LNP Horses
 Horses for princesses.
 </h2>
 <p>
-Many colors of horses and ponies are available from LNP. Contact Lara for details. 
+Many colors of horses and ponies are available from LNP. Contact Lara for details.
 </p>
 <br/>
 <img class="throneIMG" src="horse.jpg"/>
 <p>
-&copy 2013-2014 LNP Incorporated
+&copy 2013-2015 LNP Incorporated
 </p>
 </body>
 </html>

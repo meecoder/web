@@ -16,12 +16,12 @@ LNP Capes
 Capes for kings, queens, and princesses.
 </h2>
 <p>
-Many sizes and styles of royal capes are available from LNP. Contact Lara for details. 
+Many sizes and styles of royal capes are available from LNP. Contact Lara for details.
 </p>
 <br/>
 <img class="throneIMG" src="cape.jpg" height=500 width=500 />
 <p>
-&copy 2013-2014 LNP Incorporated
+&copy 2013-2015 LNP Incorporated
 </p>
 </body>
-</html> 
+</html>

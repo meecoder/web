@@ -16,12 +16,12 @@ LNP Jewelry
 Jewelry for kings, queens, and princesses.
 </h2>
 <p>
-Many different types of jewelry are available from LNP. Hand-design your own for $10 extra. Contact Lara for details. 
+Many different types of jewelry are available from LNP. Hand-design your own for $10 extra. Contact Lara for details.
 </p>
 <br/>
 <img src="jewelry.png">
 <p>
-&copy 2013-2014 LNP Incorporated
+&copy 2013-2015 LNP Incorporated
 </p>
 </body>
 </html>

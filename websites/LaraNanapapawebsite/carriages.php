@@ -21,7 +21,7 @@ Available to buy, or obtain for short-term official events. Many sizes are avail
 <br/>
 <img class="throneIMG" src="carriage.jpg" height="500" width="750" />
 <p>
-&copy 2013-2014 LNP Incorporated
+&copy 2013-2015 LNP Incorporated
 </p>
 </body>
 </html>

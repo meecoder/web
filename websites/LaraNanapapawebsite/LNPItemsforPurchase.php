@@ -65,7 +65,7 @@ King/Queen/Princess carriages
 <a class="btn2" href="carriages.php">Info</a>
 </p>
 <p>
-&copy; 2012-2014 LNP Incorporated
+&copy; 2012-2015 LNP Incorporated
 </p>
 </body>
 </html>
